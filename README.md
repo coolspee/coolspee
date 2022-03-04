@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there, welcome to my ReadMe 👋
 
-<!--
-**coolspee/coolspee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const coolspee = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Lua"],
+    skills: {
+       frontEnd:{
+            js: ["React"]
+        },
+       backEnd: {
+            js: ["Node", "Next"],
+        },
+       databases: ["MongoDB"],
+       frameworks: ["GraphQL", "TailwindCSS"]
+    }
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Stats](https://github-readme-stats.vercel.app/api/?username=coolspee&count_private=true&show_icons=true&custom_title=coolspee&hide=prs,issues)](https://github.com/coolspee)
