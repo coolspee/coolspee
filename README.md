@@ -2,7 +2,7 @@
 
 ```javascript
 const coolspee = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     code: ["Javascript", "Lua"],
     skills: {
        frontEnd:{
