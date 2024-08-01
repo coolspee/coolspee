@@ -6,16 +6,16 @@ const coolspee = {
     code: ["Javascript", "Java", "Lua", "Python"],
     skills: {
        frontEnd:{
-            js: ["React.js"]
+            js: ["React.js", "TailwindCSS"]
         },
        backEnd: {
             js: ["Node.js", "Next.js"],
         },
-       databases: ["MongoDB"],
+       databases: ["MySQL", "MongoDB"],
        libraries: {
-            js: ["Discord.js"],
+            js: ["DiscordJS", "Express"],
        },
-       frameworks: ["GraphQL", "TailwindCSS"]
+       frameworks: ["GraphQL"]
     }
 };
 ```
