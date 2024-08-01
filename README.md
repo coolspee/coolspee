@@ -1,4 +1,4 @@
-### Hey there, welcome to my ReadMe 👋
+### Hey there, welcome to my Profile 👋
 
 ```javascript
 const coolspee = {
