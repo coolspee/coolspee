@@ -1,7 +1,4 @@
 ### Hey there, welcome to my Profile 👋
-```http
-GET https://example.com HTTP/1.1
-```
 ```javascript
 const coolspee = {
   pronouns: ["He", "Him"],
