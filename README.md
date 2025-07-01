@@ -4,21 +4,22 @@ GET https://example.com HTTP/1.1
 ```
 ```javascript
 const coolspee = {
-    pronouns: ["He", "Him"],
-    code: ["Javascript", "Java", "Lua", "Python"],
-    skills: {
-       frontEnd:{
-            js: ["React.js", "TailwindCSS"]
-        },
-       backEnd: {
-            js: ["Node.js", "Next.js"],
-        },
-       databases: ["MySQL", "MongoDB"],
-       libraries: {
-            js: ["DiscordJS", "Express"],
-       },
-       frameworks: ["GraphQL"]
+  pronouns: ["He", "Him"],
+  languages: ["JavaScript", "Java", "Lua", "Python"],
+  skills: {
+    frontend: {
+      frameworks: ["React.js"],
+    },
+    backend: {
+      runtimes: ["Node.js"],
+      frameworks: ["Next.js"],
+    },
+    libraries: {
+      javascript: ["Express", "Discord.js"]
     }
+    databases: ["MySQL", "MongoDB"],
+    other: ["GraphQL"]
+  }
 };
 ```
 
