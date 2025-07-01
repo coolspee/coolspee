@@ -13,7 +13,7 @@ const coolspee = {
     },
     libraries: {
       javascript: ["Express", "Discord.js"]
-    }
+    },
     databases: ["MySQL", "MongoDB"],
     other: ["GraphQL"]
   }
